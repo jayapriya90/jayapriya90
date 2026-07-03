@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 💻
 
+- 💬 Ask me about Large scale distibuted systems, Backend / platform engineering
+- 📫 How to reach me: jayapriya.surendran@gmail.com, jayapriya @voicera.io
 <!--
 **jayapriya90/jayapriya90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
