@@ -1,6 +1,6 @@
 ## Hello 💻
 
-- 💬 Ask me about Large scale distibuted systems, Backend / platform engineering, Applied Machine Learning
+- 💬 Ask me about Backend / platform engineering, Large scale distributed systems Applied Machine Learning
 - 📫 How to reach me: jayapriya.surendran@gmail.com, jayapriya@voicera.io
 <!--
 **jayapriya90/jayapriya90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
