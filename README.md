@@ -1,4 +1,4 @@
-## Hello 💻
+## Hi 
 
 - 💬 Ask me about Backend / platform engineering, Large scale distributed systems, Applied Machine Learning
 
